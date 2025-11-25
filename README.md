@@ -19,7 +19,7 @@
       <p class="muted">Your deterministic daily insight (based on date + user)</p>
       <div class="controls">
         <label for="username">Username (optional)</label>
-        <input id="username" placeholder="e.g. scharineeea34" />
+        <input id="username" placeholder="e.g. belle" />
         <button id="daily-btn" class="btn">Reveal Today's Card</button>
       </div>
       <div id="daily-result" class="results"></div>
